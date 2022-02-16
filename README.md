@@ -14,29 +14,43 @@ Using Cloud Tools to build CICD Pipelines, troubleshooting and Monitoring**
   <img src="https://th.bing.com/th/id/OIP.gSWX1AXAsrW3KPx1pTDujgHaF2?pid=ImgDet&rs=1" width="40" height="40"/>
 </p>
 
-```markdown
 
 
 
-Understanding customer requirements and project KPIs
-Implementing various development, testing, automation tools, and IT infrastructure
-Planning the team structure, activities, and involvement in project management activities.
-Managing stakeholders and external interfaces
-Setting up tools and required infrastructure
-Defining and setting development, test, release, update, and support processes for DevOps operation
-Have the technical skill to review, verify, and validate the software code developed in the project.
-Troubleshooting techniques and fixing the code bugs
-Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement and minimizing the wastage
-Encouraging and building automated processes wherever possible
-Identifying and deploying cybersecurity measures by continuously performing vulnerability assessment and risk management
-Incidence management and root cause analysis
-Coordination and communication within the team and with customers
-Selecting and deploying appropriate CI/CD tools
-Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline)
-Mentoring and guiding the team members 
-Monitoring and measuring customer experience and KPIs
-Managing periodic reporting on the progress to the management and the customer
 
+•	Understanding customer requirements and project KPIs
 
----
+•	Implementing various development, testing, automation tools, and IT infrastructure
+
+•	Planning the team structure, activities, and involvement in project management activities
+
+•	Managing stakeholders and external interfaces
+
+•	Setting up tools and required infrastructure
+
+•	Defining and setting development, test, release, update, and support processes for DevOps operation
+
+•	Have the technical skill to review, verify, and validate the software code developed in the project
+
+•	Troubleshooting techniques and fixing the code bugs
+
+•	Monitoring the processes during the entire lifecycle for its adherence and updating or creating new processes for improvement and minimizing the wastage
+
+•	Encouraging and building automated processes wherever possible
+
+•	Identifying and deploying cybersecurity measures by continuously performing vulnerability assessment and risk management
+
+•	Incidence management and root cause analysis
+
+•	Coordination and communication within the team and with customers
+
+•	Selecting and deploying appropriate CI/CD tools
+
+•	Strive for continuous improvement and build continuous integration, continuous development, and constant deployment pipeline (CI/CD Pipeline)
+
+•	Mentoring and guiding the team members 
+
+•	Monitoring and measuring customer experience and KPIs
+
+•	Managing periodic reporting on the progress to the management and the customer
 
