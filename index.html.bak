@@ -112,11 +112,7 @@
 					<p class="scroll-animated-from-right"><b>🔀 Support the engineering teams regarding CI/Build tools, Environments and Automation</b></p>
 					<p class="scroll-animated-from-right"><b>🔀 Involved in Branching, Tagging and Merging of code delivery at required releases</b></p>
 					<p class="scroll-animated-from-right"><b>🔀 Help Development teams automate the environment setup using tools like Ansible</b></p>
-					<p class="scroll-animated-from-right"><b>🔀 Setup DEV, QA and UAT environments for every sprint using Ansible</b></p>
-					<p class="scroll-animated-from-right"><b>🔀 Experience in Provisioning, Orchestration, Configuration nodes and deployment using configuration management tool Ansible</b></p>
-					<p class="scroll-animated-from-right"><b>🔀 Experience in installing, configuring and administering Jenkins</b></p>
-					<p class="scroll-animated-from-right"><b>🔀 Configured Jenkins jobs, install plugins for generating project artifacts</b></p>
-					<p class="scroll-animated-from-right"><b>🔀 Experience in creating nodes in Jenkins, which distributes the loads and run the jobs parallel</b></p>
+					<p class="scroll-animated-from-right"><b>🔀 Setup DEV, QA and UAT environments for every sprint using Chef/Ansible</b></p>
 					<p class="scroll-animated-from-right"><b>🔀 Build engineering automation and productivity tools to streamline deployment pipeline</b></p>
 					<p class="scroll-animated-from-right"><b>🔀 Troubleshoot and resolve issues related to application deployment and operations</b></p>
 					<p class="scroll-animated-from-right"><b>🔀 Identification of root causes on critical problems throughout the platform, incident reports and the organization of the engineering team members in steps to resolve issues</b></p>
@@ -134,7 +130,10 @@
 					<p class="scroll-animated-from-right"><b>🔀 Provisioning the cloud infrastructure using Terraform and packer tools </b></p>
 					<img class="img-responsive" src="assets/img/work/aws.jpg" alt="image" width = "150" height="150">
 					
-					
+					<p class="scroll-animated-from-right"><b>☁️ Experience in Provisioning, Orchestration, Configuration nodes and deployment using configuration management tool Ansible</b></p>
+					<p class="scroll-animated-from-right"><b>☁️ Experience in installing, configuring and administering Jenkins</b></p>
+					<p class="scroll-animated-from-right"><b>☁️ Configured Jenkins jobs, install plugins for generating project artifacts</b></p>
+					<p class="scroll-animated-from-right"><b>☁️ Experience in creating nodes in Jenkins, which distributes the loads and run the jobs parallel</b></p>
 					<p class="scroll-animated-from-right"><b>☁️ Experience in AWS cloud services such as EC2, EBS, AMI, IAM, VPC, Cloud Watch, S3, Route53,ELB </b></p>
 					<p class="scroll-animated-from-right"><b>☁️ Design high available, cost effective and fault tolerate systems using multiple EC2 instances, Auto Scaling, Elastic Load Balancer & AMIs.</b></p>
 					<p class="scroll-animated-from-right"><b>☁️ Setup & maintain Elastic Load Balancer for distributing traffic among multiple web servers</b></p>
